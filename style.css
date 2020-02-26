@@ -1,0 +1,14 @@
+
+  body {
+    background: rgb(255, 209, 220);
+  }
+  h1 {
+    color: blue;
+    font-family: baskerville;
+  }
+  p {
+    border: 1px solid gray;
+  }
+  .firstp {
+    font-size: 20px;
+  }
